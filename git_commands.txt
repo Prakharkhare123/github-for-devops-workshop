@@ -1,0 +1,48 @@
+ 2 python testing.py
+   3 python testing.py
+   4 npm i python
+   5 cls
+   6 python testing.py
+   7 ls
+   8 rm testing.py
+   9 cls
+  10 python testing.py
+  11 python
+  12 lscls
+  13 cls
+  14 python testing.py
+  15 rm testing.py
+  16 ls
+  17 cls
+  18 cl
+  19 git init
+  20 ls -a
+  21 dir
+  22 dir -a
+  23 cls
+  24 git status
+  25 git status
+  26 git add testing.py
+  27 git status
+  28 git rm --cached
+  29 git status
+  30 git rm --cached testing.py
+  31 git status
+  32  git add .
+  33 git status
+  34 git commit -m "added Testing file"
+  35 cls
+  36 git status
+  37 git commit -m "added Testing file"
+  38 git commit -m "added Testing file"
+  39 git init
+  40 git commit -m "added Testing file"
+  41 git config --global user.name "Prakharkhare123"
+  42 git config --global user.email "prakhar233khare@gmail.com" 
+  43 git config --global --list
+  44 git commit -m "added Testing file"
+  45 git status
+  46 rm testing.py
+  47 ls
+  48 git status
+  49 git restore testing.py
